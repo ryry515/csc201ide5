@@ -1,4 +1,4 @@
-public class ElementarySchool {
+public class ElementarySchool extends School {
 
     public void describeLevel()
    {
