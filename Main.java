@@ -40,18 +40,16 @@ public class Main {
        priceElementary.setName("Price's Fork Elementary");
        christiansburgPrimary.setName("Christiansburg Primary");
 
+       aubrunMiddle.setName("Auburn Middle");
+       blacksburgMiddle.setName("Blacksburg Middle");
+       ChristansburgMiddle.setName("Chirstiansburg Middle");
+       shawsvilleMiddle.setName("Shawsville Middle");
 
-
-
-
-
-
-
-
-
-
-       
-
+       auburnHigh.setName("Auburn Middle");
+       montgomeryCentral.setName("Montgomery Contral");
+       eastmontHigh.setName("Eastern Montgomery High");
+       christiansburgHigh.setName("Christiansburg High");
+       blacksburgHigh.setName("Blacksburg High");
 
 
    }
